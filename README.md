@@ -1,2 +1,3 @@
 # pbkdf2-tool-java
-Simpler handling of generating and verifying PBKDF2 hashes
+
+configurable tool to generate and verify PBKDF2 hashes
